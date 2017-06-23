@@ -1,0 +1,21 @@
+#basic github java ignore list
+.class
+.log
+.ctxt
+.mtj.tmp
+.jar
+.war
+.ear
+.zip
+.tar.gz
+.rar
+hs_err_pid
+#refer ignore list
+/target
+/.settings
+/.classpath
+/.project
+*.epoch
+*.log
+*.iml
+/.idea
