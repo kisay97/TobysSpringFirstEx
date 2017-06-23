@@ -1,14 +1,14 @@
 #basic github java ignore list
-.class
-.log
-.ctxt
-.mtj.tmp
-.jar
-.war
-.ear
-.zip
-.tar.gz
-.rar
+*.class
+*.log
+*.ctxt
+*.mtj.tmp
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
 hs_err_pid
 #refer ignore list
 /target
